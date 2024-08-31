@@ -57,7 +57,7 @@ object baigorria {
 
 object gimenez {
 
-    fondoParaSueldos = 300000
+    var fondoParaSueldos = 300000
 
     method fondo(){
         return fondoParaSueldos
